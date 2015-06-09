@@ -1,0 +1,5 @@
+*.user
+*.user.*
+*.autosave
+*.tmp
+*.swp
